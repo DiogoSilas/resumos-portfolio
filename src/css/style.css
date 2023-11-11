@@ -1,5 +1,5 @@
 .main {
-    background: #ffffff url("../images/bg-montanhas.jpg") no-repeat center;
+    background: #ffffff url("../images/0.8-porcento.png") no-repeat left center;
     background-size: cover;
     display: flex;
     flex-flow: row nowrap;
@@ -7,7 +7,7 @@
     align-items: center;
 }
 
-.button {
+.section-button {
     background: #ffffff4f;
     width: 600px;
     height: 450px;
@@ -20,21 +20,16 @@
     align-items: center;
 }
 
-.button #btn-resumos, .button #btn-portfolio {
-    width: 250px;
-    padding: 20px;
+.button > a {
+    padding: 20px 30px;
     cursor: pointer;
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    background-color: #ffbf80;
+    font-size: 1.3rem;
+    background-color: #7ae6ea;
     border-radius: 13px;
 }
 
-.button a {
-    color: #2A2E30;
-    font-size: 1.6rem;
-}
-
-.button .fa-github-square, .button .fa-instagram-square, .button .fa-linkedin {
+.section-button .fa-github-square, .section-button .fa-instagram-square, .section-button .fa-linkedin {
     font-size: 2.5rem;
     color: #000;
     margin: 0 20px;
