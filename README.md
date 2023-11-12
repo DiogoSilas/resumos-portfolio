@@ -6,7 +6,7 @@
 <p>
 
 <a href="https://diogosilas.github.io/resumos-portfolio/">
-  <img src="./src/videos/home-links.gif" alt="Home Links">
+  <img src="./src/images/home-links.png" alt="Home Links">
 </a>
 
 ## Tecnologias Utilizadas
