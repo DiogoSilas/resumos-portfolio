@@ -3,6 +3,3 @@
   ao Instagram, onde compartilho regularmente seções de estudos em formato de time-lapse;
   e ao LinkedIn, fornecendo informações mais aprofundadas sobre minhas habilidades e minha visão como profissional.
 <p>
-<div>
-  [<img src="" alt="" title="">]()
-</div>
