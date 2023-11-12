@@ -1,5 +1,5 @@
 .main {
-    background: #ffffff url("../images/0.8-porcento.png") no-repeat left center;
+    background: #ffffff url("../images/bg-main.png") no-repeat center center;
     background-size: cover;
     display: flex;
     flex-flow: row nowrap;
