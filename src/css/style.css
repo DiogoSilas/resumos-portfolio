@@ -24,8 +24,9 @@
     padding: 20px 30px;
     cursor: pointer;
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    font-size: 1.3rem;
-    background-color: #7ae6ea;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: #7aea87;
     border-radius: 13px;
 }
 
@@ -34,4 +35,5 @@
     color: #000;
     margin: 0 20px;
     cursor: pointer;
+    box-shadow: 3px 1px 15px #ffe600;
 }
