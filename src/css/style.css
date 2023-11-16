@@ -33,7 +33,8 @@
 .section-button .fa-github-square, .section-button .fa-instagram-square, .section-button .fa-linkedin {
     font-size: 2.5rem;
     color: #000;
+    background-color: #ffe6009c;
     margin: 0 20px;
     cursor: pointer;
-    box-shadow: 3px 1px 15px #ffe600;
+    box-shadow: 0px 0px 25px #ffe600;
 }
