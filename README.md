@@ -11,17 +11,12 @@
 
 ## Tecnologias Utilizadas
 
-<ul>
- <li>
-    Hyper Text Markup Language - HTML5 é a linguagem de marcação que viabiliza a criação de código semântico, de manutenção simplificada e legibilidade
-  </li>
-  <li>
-    Cascading Style Sheets - CSS3, a linguagem de folha de estilo em cascata, é a força motriz por trás da criação de efeitos estéticos na página, englobando a manipulação de textos, imagens e adaptabilidade responsiva.
-  </li>
-</ul>
+  - Hyper Text Markup Language - HTML5 é a linguagem de marcação que viabiliza a criação de código semântico, de manutenção simplificada e legibilidade
+
+  - Cascading Style Sheets - CSS3, a linguagem de folha de estilo em cascata, é a força motriz por trás da criação de efeitos estéticos na página, englobando a manipulação de textos, imagens e adaptabilidade responsiva.
 
 ## Como Utilizar?
 
-<p>
-  Simples, basta clicar no item que lhe interessa, e será redirecionado
-</p>
+1. Clique em "Resumos Tech" para ter acesso aos meus estudos de Software;
+2. "Currículo": Verá as minhas habilidade e competências;
+3. "Portfolio beta": Um portfólio temporário feito com CSS precário. 
