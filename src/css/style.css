@@ -1,6 +1,7 @@
 .main {
-    background: #ffffff url("../images/bg-main.png") no-repeat center center;
+    background: #ffffff url("../images/bg-main.jpg") no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
@@ -26,15 +27,14 @@
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
-    background-color: #7aea87;
+    background-color: #806154;
+    box-shadow: 5px 5px 10px #fbe3a77e;
     border-radius: 13px;
 }
 
 .section-button .fa-github-square, .section-button .fa-instagram-square, .section-button .fa-linkedin {
     font-size: 2.5rem;
     color: #000;
-    background-color: #ffe6009c;
     margin: 0 20px;
     cursor: pointer;
-    box-shadow: 0px 0px 25px #ffe600;
 }
